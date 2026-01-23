@@ -1,96 +1,132 @@
-# Hi, I'm Michael Oguidan 👋
+<div align="center">
 
-🚀 **Backend Software Engineer | Go & Cloud Systems**  
-💡 Data Scientist | Open-Source Enthusiast  
-📍 Côte d’Ivoire
+# 👋 Hi, I'm **Michael Oguidan**
 
-I’m a computer engineer passionate about building **scalable backend systems**, **cloud-native solutions**, and **open-source software**.  
-I enjoy working close to infrastructure, performance, and real-world production constraints.
+### 🚀 Backend Software Engineer | Go & Cloud Systems  
+### 💡 Data Scientist • Open-Source Enthusiast  
+
+📍 Côte d’Ivoire 🇨🇮  
+
+[![Email](https://img.shields.io/badge/Email-michaeloguidan%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:michaeloguidan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Oguidan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-oguidan-b642361a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-Oguidan-black?style=for-the-badge&logo=github)](https://github.com/Oguidan)
+
+</div>
 
 ---
 
-## 🧠 What I do
+## 🌟 About Me
 
-- ⚙️ Design and build **high-performance backend services** (Go, Python)
-- ☁️ Work with **cloud & DevOps** tools to ship reliable systems
-- 🔐 Implement **secure, production-ready architectures**
-- 🌍 Lead and contribute to **open-source projects**
+I'm a **computer engineer** passionate about building **scalable backend systems**, **cloud-native architectures**, and **open-source software**.
+
+I love working close to:
+- ⚙️ system performance  
+- ☁️ cloud infrastructure  
+- 🔐 security & reliability  
+- 🌍 real-world production constraints  
+
+---
+
+## 🧠 What I Do Best
+
+- 🚀 Build **high-performance backend services** (Go, Python)
+- ☁️ Design & deploy **cloud-ready systems**
+- 🔐 Implement **secure, production-grade architectures**
+- 🌍 Lead & contribute to **open-source projects**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- Go, Python, C/C++, Solidity
+### 💻 Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 
-### Backend & Data
-- PostgreSQL, MongoDB, Redis, Milvus  
-- GraphQL  
-- Kafka, RabbitMQ
+### 🧩 Backend & Data
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
 
-### Cloud & DevOps
-- Docker, Kubernetes, Terraform  
-- GitHub Actions, CI/CD
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
 
-### Blockchain
-- Ethereum, Go-Ethereum
-
-### Tools & Others
-- Bash, YAML, UML, Qt
+### ⛓ Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
 
 ---
 
 ## 💼 Experience
 
-**Microsoft Power Platform Engineer** — *AGL (Africa Global Logistics)*  
-📅 Oct 2024 – Present  
-- Built enterprise Power Platform solutions used across multiple African regions  
-- Managed Dataverse security roles, environment variables, and access control  
-- Automated workflows, reducing manual processing time by **50%**
+### 🏢 **AGL — Africa Global Logistics**
+**Microsoft Power Platform Engineer**  
+📅 *Oct 2024 – Present*
 
-**Go Backend Software Engineer** — *Send Chap*  
-📅 Jul 2024 – Sep 2024  
-- Developed Go services processing financial transactions (Orange, MTN, Wave, Moov)  
-- Optimized PostgreSQL & Redis for low-latency systems  
-- Implemented strong security practices for sensitive data
+- Designed enterprise Power Platform solutions across multiple African regions  
+- Managed Dataverse security, roles, and environment variables  
+- Automated logistics workflows → **50% reduction in manual processing**
 
-**Full-Stack Software Engineer** — *Coccyx Systems*  
-📅 Dec 2023 – May 2024  
-- Built multi-platform apps (Angular, .NET, Flutter, Go)  
-- Improved CI/CD pipelines by ~30% using Docker, Kubernetes & Terraform
+---
+
+### 💳 **Send Chap**
+**Go Backend Software Engineer**  
+📅 *Jul 2024 – Sep 2024*
+
+- Built Go services handling financial transactions (Orange, MTN, Wave, Moov)  
+- Optimized PostgreSQL queries & Redis caching  
+- Implemented authentication, authorization & data protection
+
+---
+
+### 🧠 **Coccyx Systems**
+**Full-Stack Software Engineer**  
+📅 *Dec 2023 – May 2024*
+
+- Built apps using Angular, .NET, Flutter & Go  
+- Improved CI/CD pipelines by **~30%** using Docker, Kubernetes & Terraform
 
 ---
 
 ## 🌱 Open Source & Community
 
-**Founder & Manager — Heaven’s Labs**  
+### 🌍 **Heaven’s Labs**
+**Founder & Organization Manager**
+
 - Defined technical vision for open-source projects  
-- Coordinated distributed contributors  
+- Led distributed contributors  
 - Promoted engineering best practices
 
-**Open-Source Contributor**  
-- Active GitHub contributor with accepted pull requests
+### ⭐ Open-Source Contributor
+- Active contributor with accepted pull requests
 
 ---
 
-## 📚 Education & Certifications
+## 🎓 Education & Certifications
 
-🎓 **Bachelor’s Degree — Computer Science** (ESATIC)  
+🎓 **Bachelor’s Degree — Computer Science** (ESATIC)
 
-📜 Certifications from **MIT & IBM**:
-- Machine Learning with Python
-- Probability & Uncertainty
-- Computational Thinking
+📜 **MIT & IBM Certifications**
+- Machine Learning with Python  
+- Probability & Uncertainty  
+- Computational Thinking  
 - Cloud Computing
 
 ---
 
-## 📫 Let’s connect
+<div align="center">
 
-- 📧 Email: **michaeloguidan@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/michael-oguidan-b642361a6](https://www.linkedin.com/in/michael-oguidan-b642361a6/)
-- 🧑‍💻 GitHub: [github.com/Oguidan](https://github.com/Oguidan)
+## 🤝 Let’s Build Something Awesome
 
----
+📧 **michaeloguidan@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/michael-oguidan-b642361a6/)  
+🐙 [GitHub](https://github.com/Oguidan)
 
-⭐ *Always open to interesting backend, cloud, and open-source projects.*
+⭐ *Always open to backend, cloud & open-source collaborations.*
+
+</div>
