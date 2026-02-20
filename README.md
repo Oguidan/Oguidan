@@ -1,132 +1,61 @@
-# Hi there, I'm Michael Oguidan!👋
+# Hi there, I'm Michael Oguidan! 👋
 
 ![Banner Image](/assets/profile_banner.png)
 
-### 🚀 Backend Software Engineer | Go & Cloud Systems  
-### 💡 Data Scientist • Open-Source Enthusiast  
+## About Me 🚀
 
-📍 Côte d’Ivoire 🇨🇮  
+I'm a passionate **Backend Software Engineer | Go & Cloud Systems** with experience in **Go, Python, C/C++, PostgreSQL, Redis, Kafka, Docker, Kubernetes, and Terraform**.  
 
-[![Email](https://img.shields.io/badge/Email-michaeloguidan%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:michaeloguidan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Oguidan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-oguidan-b642361a6/)
-[![GitHub](https://img.shields.io/badge/GitHub-Oguidan-black?style=for-the-badge&logo=github)](https://github.com/Oguidan)
+I love building scalable backend systems, optimizing performance, and designing secure cloud-native architectures. I’m especially motivated by solving real-world infrastructure and distributed systems challenges.
 
-</div>
-
----
-
-## 🌟 About Me
-
-I'm a **computer engineer** passionate about building **scalable backend systems**, **cloud-native architectures**, and **open-source software**.
-
-I love working close to:
-- ⚙️ system performance  
-- ☁️ cloud infrastructure  
-- 🔐 security & reliability  
-- 🌍 real-world production constraints  
+- 🌱 Currently learning: **Advanced Distributed Systems, Cloud Architecture Patterns, and High-Performance Go**
+- 🔭 Working on: **Open-source projects at Heaven’s Labs & backend system design improvements**
+- 🌍 Languages: **Go, Python, C/C++, Solidity | English (fluent), French**
+- ⚡ Fun fact: I enjoy working close to infrastructure and performance more than building UIs 😄
 
 ---
 
-## 🧠 What I Do Best
-
-- 🚀 Build **high-performance backend services** (Go, Python)
-- ☁️ Design & deploy **cloud-ready systems**
-- 🔐 Implement **secure, production-grade architectures**
-- 🌍 Lead & contribute to **open-source projects**
-
----
-
-## 🛠 Tech Stack
+## My Skills 🧠
 
 ### 💻 Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-### 🧩 Backend & Data
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+### 🧩 Backend & Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-### ⛓ Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## 💼 Experience
+## Featured Projects 💻
 
-### 🏢 **AGL — Africa Global Logistics**
-**Microsoft Power Platform Engineer**  
-📅 *Oct 2024 – Present*
+### 🚀 Financial Transaction Backend (Send Chap)
 
-- Designed enterprise Power Platform solutions across multiple African regions  
-- Managed Dataverse security, roles, and environment variables  
-- Automated logistics workflows → **50% reduction in manual processing**
+**Financial Transaction Backend** is a high-performance backend service built with **Go, PostgreSQL, and Redis**.  
 
----
-
-### 💳 **Send Chap**
-**Go Backend Software Engineer**  
-📅 *Jul 2024 – Sep 2024*
-
-- Built Go services handling financial transactions (Orange, MTN, Wave, Moov)  
-- Optimized PostgreSQL queries & Redis caching  
-- Implemented authentication, authorization & data protection
+This project demonstrates my ability to:
+- Design reliable transaction systems  
+- Optimize database queries for low latency  
+- Implement authentication & secure data handling  
 
 ---
 
-### 🧠 **Coccyx Systems**
-**Full-Stack Software Engineer**  
-📅 *Dec 2023 – May 2024*
+## Get in Touch 📬
 
-- Built apps using Angular, .NET, Flutter & Go  
-- Improved CI/CD pipelines by **~30%** using Docker, Kubernetes & Terraform
+- **GitHub**: https://github.com/Oguidan  
+- **LinkedIn**: https://www.linkedin.com/in/michael-oguidan-b642361a6/  
 
 ---
 
-## 🌱 Open Source & Community
-
-### 🌍 **Heaven’s Labs**
-**Founder & Organization Manager**
-
-- Defined technical vision for open-source projects  
-- Led distributed contributors  
-- Promoted engineering best practices
-
-### ⭐ Open-Source Contributor
-- Active contributor with accepted pull requests
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **Bachelor’s Degree — Computer Science** (ESATIC)
-
-📜 **MIT & IBM Certifications**
-- Machine Learning with Python  
-- Probability & Uncertainty  
-- Computational Thinking  
-- Cloud Computing
-
----
-
-<div align="center">
-
-## 🤝 Let’s Build Something Awesome
-
-📧 **michaeloguidan@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/michael-oguidan-b642361a6/)  
-🐙 [GitHub](https://github.com/Oguidan)
-
-⭐ *Always open to backend, cloud & open-source collaborations.*
-
-</div>
+⭐ Always open to backend, distributed systems, and cloud engineering opportunities.
