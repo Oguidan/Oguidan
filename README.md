@@ -1,7 +1,5 @@
 # Hi there, I'm Michael Oguidan! 👋
 
-![Banner Image](/assets/profile_banner.png)
-
 ## About Me 🚀
 
 I'm a passionate **Backend Software Engineer | Go & Cloud Systems** with experience in **Go, Python, C/C++, PostgreSQL, Redis, Kafka, Docker, Kubernetes, and Terraform**.  
