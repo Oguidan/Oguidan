@@ -1,6 +1,6 @@
-<div align="center">
+# Hi there, I'm Michael Oguidan!👋
 
-# 👋 Hi, I'm **Michael Oguidan**
+![Banner Image](/assets/profile_banner.png)
 
 ### 🚀 Backend Software Engineer | Go & Cloud Systems  
 ### 💡 Data Scientist • Open-Source Enthusiast  
