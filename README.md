@@ -49,11 +49,4 @@ This project demonstrates my ability to:
 
 ---
 
-## Get in Touch 📬
-
-- **GitHub**: https://github.com/Oguidan  
-- **LinkedIn**: https://www.linkedin.com/in/michael-oguidan-b642361a6/  
-
----
-
 ⭐ Always open to backend, distributed systems, and cloud engineering opportunities.
